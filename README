@@ -1,13 +1,13 @@
 A jQuery (1.7.1) plugin that turns an HTML-list into a paged list, showing a chosen number of items from the list per page. There is a parameter with which you can choose which page should be shown initially.
 
 ### Sample Markup:
-<pre>&lt;ul class=&quot;list&quot;&gt;
-	&lt;li&gt;Item 1 of 23&lt;/li&gt;
-	&lt;li&gt;Item 2 of 23&lt;/li&gt;
-	&lt;li&gt;Item 3 of 23&lt;/li&gt;
-	&lt;li&gt;Item 4 of 23&lt;/li&gt;
-	&lt;li&gt;Item 5 of 23&lt;/li&gt;
-	&lt;li&gt;Item 6 of 23&lt;/li&gt;
+<ul class=&quot;list&quot;&gt;
+	<li>Item 1 of 6</li>
+	<li>Item 2 of 6</li>
+	<li>Item 3 of 6</li>
+	<li>Item 4 of 6</li>
+	<li>Item 5 of 6</li>
+	<li>Item 6 of 6</li>
 &lt;/ul&gt;</pre>
 
 ### Example Usage with Defaults:
